@@ -12,9 +12,19 @@ This project features an interactive 3D globe of Mars showing topography and sei
 
 Open the included `mars_globe.html` file in a modern web browser to explore the 3D Mars globe with seismic data.
 
-### Embedding the visualization in markdown or Jupyter notebooks
 
-To embed the interactive Plotly visualization in markdown or Jupyter notebooks, you can use the following HTML snippet:
+## Data Sources
 
-```html
-<iframe src="mars_globe.html" width="900" height="700" frameborder="0" allowfullscreen></iframe>
+* Mars elevation data (MOLA)
+* Marsquake seismic events from NASA InSight mission
+---
+
+## License
+
+MIT License
+
+---
+
+## Contact
+
+For questions or suggestions, please open an issue or contact aradfarahani@aol.com .
