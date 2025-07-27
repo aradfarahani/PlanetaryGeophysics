@@ -8,17 +8,6 @@
 
 This project features an interactive 3D globe of Mars showing topography and seismic events (Marsquakes). The visualization is created using Plotly and can be embedded in HTML.
 
-### How to view the interactive globe
-
-Open the included `mars_globe.html` file in a modern web browser to explore the 3D Mars globe with seismic data.
-
-
-## Data Sources
-
-* Mars elevation data (MOLA)
-* Marsquake seismic events from NASA InSight mission
----
-
 ## License
 
 MIT License
