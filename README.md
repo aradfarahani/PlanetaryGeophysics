@@ -1,8 +1,6 @@
 # PlanetaryGeophysics
 
-
-
-<img width="4200" height="2400" alt="mars_topography_quakes" src="https://github.com/user-attachments/assets/b1bda1fd-1f94-4a6e-9f6a-539ed11b2cb9" />
+<img width="2028" height="656" alt="Copy of cover" src="https://github.com/user-attachments/assets/853df9dc-2fb6-4330-99ae-d44a5dc64988" />
 
 **PlanetaryGeophysics** is an open-source project dedicated to analyzing and visualizing geophysical data from planetary bodies across the solar system. It provides tools for processing seismic events, topographic mapping, and interactive 3D visualizations to support research into planetary interiors, tectonics, and seismic activity beyond Earth.
 
