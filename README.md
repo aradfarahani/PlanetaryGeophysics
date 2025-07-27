@@ -41,3 +41,6 @@ For feedback, collaboration, or questions, feel free to:
 
 - Open an issue in this repository
 - Contact the author at [aradfarahani@aol.com](mailto:aradfarahani@aol.com)
+
+<img width="4200" height="2400" alt="mars_topography_quakes" src="https://github.com/user-attachments/assets/75d8230a-41f1-4daa-a2f9-c261a64be2fe" />
+
