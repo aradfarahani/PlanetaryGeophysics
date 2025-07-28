@@ -46,5 +46,8 @@ For feedback, collaboration, or questions, feel free to:
 - Contact the author at [aradfarahani@aol.com](mailto:aradfarahani@aol.com)
 
 
-![Uploading mars_magnets_quakes.png…]()
+
+
+<img width="4200" height="2400" alt="mars_magnets_quakes" src="https://github.com/user-attachments/assets/514ff17b-73c8-4358-81a3-c2e2719c1f21" />
+
 
