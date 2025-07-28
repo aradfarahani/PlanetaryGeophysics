@@ -1,53 +1,70 @@
-# PlanetaryGeophysics
+# 🪐 PlanetaryGeophysics
 
-<img width="2028" height="656" alt="Copy of cover" src="https://github.com/user-attachments/assets/853df9dc-2fb6-4330-99ae-d44a5dc64988" />
+<img width="2028" height="656" alt="Cover" src="https://github.com/user-attachments/assets/853df9dc-2fb6-4330-99ae-d44a5dc64988" />
 
-**PlanetaryGeophysics** is an open-source project dedicated to analyzing and visualizing geophysical data from planetary bodies across the solar system. It provides tools for processing seismic events, topographic mapping, and interactive 3D visualizations to support research into planetary interiors, tectonics, and seismic activity beyond Earth.
+**PlanetaryGeophysics** is an open-source research project focused on analyzing and visualizing geophysical datasets from planetary bodies across the solar system. The project provides tools to explore topography, seismicity, and magnetic field dynamics—enabling planetary scientists and enthusiasts to gain insights into tectonics, interior structure, and surface processes beyond Earth.
 
+---
 
-## 🌍 Interactive 3D Mars Globe Visualization
+## 🌍 Interactive Mars Globe Visualization
 
-This project includes an interactive 3D globe of Mars that visualizes MOLA topography data and seismic events detected by NASA's InSight mission.
+One of the core features of this project is a 3D interactive globe of Mars, displaying topographic data and seismic events recorded by NASA's InSight mission.
 
-### 🔗 [Click here to explore the interactive globe](https://aradfarahani.github.io/PlanetaryGeophysics/mars_globe.html)
+👉 **[Explore the interactive Mars globe](https://aradfarahani.github.io/PlanetaryGeophysics/mars_globe.html)**
 
-<p align="center"> <a href="https://aradfarahani.github.io/PlanetaryGeophysics/mars_globe.html"> <img src="https://github.com/user-attachments/assets/8bb1dda1-6f56-4870-84b5-16c6d14fde09" alt="3D Mars Globe Preview" width="300"/> </a> </p>
+<p align="center">
+  <a href="https://aradfarahani.github.io/PlanetaryGeophysics/mars_globe.html">
+    <img src="https://github.com/user-attachments/assets/8bb1dda1-6f56-4870-84b5-16c6d14fde09" alt="3D Mars Globe Preview" width="300"/>
+  </a>
+</p>
 
-## 📁 Data Sources
+---
 
-- **Mars Topography (MOLA):** Derived from `megt90n000eb.lbl` and `megt90n000eb.img`, processed using GDAL.
-- **Seismic Events:** [NASA InSight Mars SEIS event catalog](https://ds.iris.edu/ds/nodes/dmc/tools/mars-events/) (`events_extended_multiorigin_v14_2023-01-01.xml`).
-- **Magnetic Field Data:** Using MAVEN spacecraft data, I processed hundreds of CDF files to animate Mars’ magnetic environment dynamics over time.
+## 📡 Data Sources
 
+This project integrates multiple scientific datasets from NASA missions:
 
-![mars_magnetometer_animation](https://github.com/user-attachments/assets/b7b67f1d-0199-41fc-b841-b467f688fa05)
+* **🗺️ Mars Topography (MOLA):**
+  High-resolution elevation data derived from `megt90n000eb.lbl` and `megt90n000eb.img`, processed using GDAL.
 
+* **🌋 Seismic Events:**
+  NASA InSight SEIS Marsquake catalog ([IRIS Data Portal](https://ds.iris.edu/ds/nodes/dmc/tools/mars-events/)) — `events_extended_multiorigin_v14_2023-01-01.xml`.
 
-## 🛠️ Technologies Used
+* **🧲 Magnetic Field Data (MAVEN):**
+  Hundreds of CDF files from the MAVEN spacecraft are processed to visualize temporal changes in the Martian magnetic field.
 
-- Python (NumPy, Pandas, Matplotlib, Rasterio, Plotly)
-- Jupyter Notebooks
-- GDAL for raster processing
-- Plotly for interactive 3D globe visualization
-- GitHub Pages for hosting visualizations
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b7b67f1d-0199-41fc-b841-b467f688fa05" alt="Mars Magnetic Field Animation" width="600"/>
+</div>
 
+---
 
-## 📜 License
+## ⚙️ Technologies & Tools
 
-This project is licensed under the **MIT License**.
+* **Programming & Visualization:** Python, Jupyter Notebooks
+* **Libraries:** NumPy, Pandas, Matplotlib, Plotly
+* **Geospatial Processing:** GDAL, Rasterio
+* **Deployment:** GitHub Pages (for hosting interactive content)
 
+---
 
+## 🖼️ Example Output
+
+<div align="center">
+  <img width="800" alt="Mars Magnetic + Seismic" src="https://github.com/user-attachments/assets/514ff17b-73c8-4358-81a3-c2e2719c1f21" />
+</div>
+
+---
+
+## 📄 License
+
+This project is released under the **MIT License**. Feel free to use, adapt, or contribute.
+
+---
 
 ## 📬 Contact
 
-For feedback, collaboration, or questions, feel free to:
+For questions, feedback, or collaboration opportunities:
 
-- Open an issue in this repository
-- Contact the author at [aradfarahani@aol.com](mailto:aradfarahani@aol.com)
-
-
-
-
-<img width="4200" height="2400" alt="mars_magnets_quakes" src="https://github.com/user-attachments/assets/514ff17b-73c8-4358-81a3-c2e2719c1f21" />
-
-
+* Open an issue on GitHub
+* Reach out via email: [aradfarahani@aol.com](mailto:aradfarahani@aol.com)
