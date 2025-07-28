@@ -17,7 +17,10 @@ This project includes an interactive 3D globe of Mars that visualizes MOLA topog
 
 - **Mars Topography (MOLA):** Derived from `megt90n000eb.lbl` and `megt90n000eb.img`, processed using GDAL.
 - **Seismic Events:** [NASA InSight Mars SEIS event catalog](https://ds.iris.edu/ds/nodes/dmc/tools/mars-events/) (`events_extended_multiorigin_v14_2023-01-01.xml`).
+- **Magnetic Field Data:** Using MAVEN spacecraft data, I processed hundreds of CDF files to animate Mars’ magnetic environment dynamics over time.
 
+
+![mars_magnetometer_animation](https://github.com/user-attachments/assets/b7b67f1d-0199-41fc-b841-b467f688fa05)
 
 
 ## 🛠️ Technologies Used
