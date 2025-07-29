@@ -54,6 +54,9 @@ This project integrates multiple scientific datasets from NASA missions:
   <img width="800" alt="Mars Magnetic + Seismic" src="https://github.com/user-attachments/assets/514ff17b-73c8-4358-81a3-c2e2719c1f21" />
 </div>
 
+![maven_magnetic_vectors_3d_with_mars-ezgif com-speed](https://github.com/user-attachments/assets/ae8296f2-73a5-4737-a96a-403f99d4ed53)
+
+
 ---
 
 ## 📄 License
@@ -68,3 +71,6 @@ For questions, feedback, or collaboration opportunities:
 
 * Open an issue on GitHub
 * Reach out via email: [aradfarahani@aol.com](mailto:aradfarahani@aol.com)
+
+<img width="2486" height="1288" alt="Screenshot from 2025-07-29 19-54-58" src="https://github.com/user-attachments/assets/91a0cd87-b944-4f3a-a3a1-b569992da152" />
+
