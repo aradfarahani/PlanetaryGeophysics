@@ -56,6 +56,9 @@ This project integrates multiple scientific datasets from NASA missions:
 
 ![maven_magnetic_vectors_3d_with_mars-ezgif com-speed](https://github.com/user-attachments/assets/ae8296f2-73a5-4737-a96a-403f99d4ed53)
 
+<img width="1320" height="762" alt="Screenshot from 2025-08-02 02-05-25" src="https://github.com/user-attachments/assets/fe26ac61-6f13-43fd-9d9c-c6b7c2fbd711" />
+
+
 
 ---
 
