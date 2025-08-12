@@ -8,7 +8,7 @@
 
 ## 🌍 Interactive Mars Globe Visualization
 
-One of the core features of this project is a 3D interactive globe of Mars, displaying topographic data and seismic events recorded by NASA's InSight mission..
+One of the core features of this project is a 3D interactive globe of Mars, displaying topographic data and seismic events recorded by NASA's InSight mission.
 
 👉 **[Explore the interactive Mars globe](https://aradfarahani.github.io/PlanetaryGeophysics/mars_globe.html)**
 
