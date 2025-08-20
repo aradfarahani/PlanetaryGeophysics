@@ -2,7 +2,7 @@
 
 <img width="2028" height="656" alt="Cover" src="https://github.com/user-attachments/assets/853df9dc-2fb6-4330-99ae-d44a5dc64988" />
 
-**PlanetaryGeophysics** is an open-source research project focused on analyzing and visualizing geophysical datasets from planetary bodies across the solar system. The project provides tools to explore topography, seismicity, and magnetic field dynamics—enabling planetary scientists and enthusiasts to gain insights into tectonics, interior structure, and surface processes beyond Earth..
+**PlanetaryGeophysics** is an open-source research project focused on analyzing and visualizing geophysical datasets from planetary bodies across the solar system. The project provides tools to explore topography, seismicity, and magnetic field dynamics—enabling planetary scientists and enthusiasts to gain insights into tectonics, interior structure, and surface processes beyond Earth.....
 
 ---
 
