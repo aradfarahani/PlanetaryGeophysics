@@ -6,7 +6,6 @@
 
 
 
-
 ---
 
 ## 🌍 Interactive Mars Globe Visualization
