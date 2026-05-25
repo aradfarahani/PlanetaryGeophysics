@@ -5,7 +5,7 @@
 **PlanetaryGeophysics** is an open-source research project focused on analyzing and visualizing geophysical datasets from planetary bodies across the solar system. The project provides tools to explore topography, seismicity, and magnetic field dynamics—enabling planetary scientists and enthusiasts to gain insights into tectonics, interior structure, and surface processes beyond Earth.... 
   
 --- 
-
+ 
 ## 🌍 Interactive Mars Globe Visualization
 
 One of the core features of this project is a 3D interactive globe of Mars, displaying topographic data and seismic events recorded by NASA's InSight mission.
