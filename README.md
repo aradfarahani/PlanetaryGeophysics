@@ -22,7 +22,7 @@ One of the core features of this project is a 3D interactive globe of Mars, disp
 
 ## 📡 Data Sources
 
-This project integrates multiple scientific datasets from NASA missions:
+This project integrates multiple scientific datasets from NASA missions: 
 
 * **🗺️ Mars Topography (MOLA):**
   High-resolution elevation data derived from `megt90n000eb.lbl` and `megt90n000eb.img`, processed using GDAL.
